@@ -32,7 +32,7 @@ Conflict-free replicated data type
 
 ## Reference
 
-- Live Demo of https://github.com/edvorg/lww-element-set
+- Live Demo of https://www.youtube.com/watch?v=PQzNW8uQ_Y4
 - https://github.com/cedricblondeau/go-lww-element-set
 
 ## Examples
